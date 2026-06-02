@@ -1,0 +1,11 @@
+# Virtual environments
+.hapot/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output videos
+output/
